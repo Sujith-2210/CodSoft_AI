@@ -3,7 +3,7 @@ rules = {
     'hello': 'Hi! How can I assist you today?',
     'hi': 'Hello! It\'s nice to meet you.',
     'how are you': 'I\'m doing great, thanks for asking!',
-    'what is your name': 'I\'m an AI assistant developed by BLACKBOX AI.',
+    'what is your name': 'I\'m an AI assistant developed by Sujith AI.',
     'what can you do': 'I can assist with a wide range of tasks, including answering questions, generating text, and completing tasks.',
     'tell me a joke': 'Why was the math book sad? Because it had too many problems.',
     'goodbye': 'It was nice chatting with you! Have a great day!',
